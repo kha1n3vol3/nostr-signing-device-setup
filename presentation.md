@@ -82,6 +82,17 @@ flowchart TD
     D -->|Fail| H[Unplug USB‑C → Restart Browser → Retry]
 ```
 
-
 ---
 
+# Some good dev follows on nostr:
+- calle (cashu): [npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg](https://njump.me/npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg)
+- Pablo (highlighter and a million NIPs): [npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft](https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft)
+- Ben Arc (LNBits): [npub1c878wu04lfqcl5avfy3p5x83ndpvedaxv0dg7pxthakq3jqdyzcs2n8avm](https://njump.me/npub1c878wu04lfqcl5avfy3p5x83ndpvedaxv0dg7pxthakq3jqdyzcs2n8avm)
+- Verbiricha from habla.news: [npub107jk7htfv243u0x5ynn43scq9wrxtaasmrwwa8lfu2ydwag6cx2quqncxg](https://njump.me/npub107jk7htfv243u0x5ynn43scq9wrxtaasmrwwa8lfu2ydwag6cx2quqncxg)
+- k00b (SN): [npub1qkfnmpuz692azr8c5phn0930x2v92xyqvwgr6ve8znaa3qd6c3hq09ertp](https://njump.me/npub1qkfnmpuz692azr8c5phn0930x2v92xyqvwgr6ve8znaa3qd6c3hq09ertp)
+- Ben Carman (Mutiny): [npub1u8lnhlw5usp3t9vmpz60ejpyt649z33hu82wc2hpv6m5xdqmuxhs46turz](https://njump.me/npub1u8lnhlw5usp3t9vmpz60ejpyt649z33hu82wc2hpv6m5xdqmuxhs46turz)
+- JeffG (nostr.how): [npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc](https://njump.me/npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
+- Brugeman (nostr.band): [npub1xdtducdnjerex88gkg2qk2atsdlqsyxqaag4h05jmcpyspqt30wscmntxy](https://njump.me/npub1xdtducdnjerex88gkg2qk2atsdlqsyxqaag4h05jmcpyspqt30wscmntxy)
+- Hodlbod (Coracle): [npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn](https://njump.me/npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn)
+- Bumi (Alby): [npub1xv8mzscll8vvy5rsdw7dcqtd2j268a6yupr6gzqh86f2ulhy9kkqmclk3x](https://njump.me/npub1xv8mzscll8vvy5rsdw7dcqtd2j268a6yupr6gzqh86f2ulhy9kkqmclk3x)
+- Miljan (Primal): [npub16c0nh3dnadzqpm76uctf5hqhe2lny344zsmpm6feee9p5rdxaa9q586nvr](https://njump.me/npub16c0nh3dnadzqpm76uctf5hqhe2lny344zsmpm6feee9p5rdxaa9q586nvr)
