@@ -60,7 +60,7 @@ paginate: true
 | **keys.band** | Sign Nostr events directly in web‑apps (no key export). | Chrome Web Store |
 | **nsec.app** | Non‑custodial key storage + remote signing. | GitHub (https://github.com/nostr‑tools/nsec.app) |
 | **nos2x** | Similar to keys.band – injects a NIP‑07 provider. | Chrome Web Store |
-| **nip‑07‑browser‑extensions** | Generic NIP‑07 implementation for any web‑app. | Various (search “NIP‑07 extension”) |
+| **nip‑07‑browser‑extensions** | Allow you to sign Nostr events on web-apps without having to give them your keys | [nip-07-browser-extensions](https://github.com/aljazceru/awesome-nostr#nip-07-browser-extensions) |
 
 > **Why use them?**  
 > - Keep private keys offline.  
