@@ -27,7 +27,8 @@ paginate: true
 - **If it fails:**  
   1. Unplug the USB‑C cable.  
   2. Restart your browser.  
-  3. Re‑connect and try again.  
+  3. Re‑connect and try again.
+  4. More info [lnbits](https://github.com/lnbits/nostr-signing-device)
 
 ---
 
